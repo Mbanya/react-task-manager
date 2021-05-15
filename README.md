@@ -10,5 +10,5 @@ Learnt
 1. Persistence even on reload
 2. Persistence even on add,delete of task
 
-App Can be viewed below:
+App Can be viewed here:
 https://suspicious-swanson-563d71.netlify.app/
